@@ -1,0 +1,44 @@
+.background-color{
+    background-color: #D2E3C8;
+    
+}
+.background-color-soft{
+    background-color: #FFFFEC;
+
+}
+.navitem-color{
+    background-color: #FFFFEC;
+    color: black;
+    border-radius: 10%;
+}
+
+.item-color{
+    color: black;
+}
+
+.flex-container{
+    display: flex;
+    height: 60vh;
+    justify-content: center;
+    align-items: center;
+}
+
+#cover-header{
+    width: 500px;
+    text-align: center;
+    font-size: 3.5rem;
+}
+.cover-body{
+    text-align: center;
+    height: 15vh;
+}
+.img{
+    width: 80%;
+}
+
+.jumbotron{
+    text-align: left;
+}
+.grid{
+    display: grid;
+}
